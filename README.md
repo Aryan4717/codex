@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Aryan4717/codex/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryan4717/codex/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryan4717/codex/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Aryan4717/codex/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan4717/codex/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryan4717/codex/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryan4717/codex/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aryan4717/codex/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan4717/codex/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryan4717/codex/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/Aryan4717/codex/tree/master/1406-stone-game-iii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aryan4717/codex/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aryan4717/codex/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan4717/codex/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aryan4717/codex/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aryan4717/codex/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aryan4717/codex/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aryan4717/codex/tree/master/3312-sorted-gcd-pair-queries) |
@@ -185,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aryan4717/codex/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan4717/codex/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Aryan4717/codex/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
