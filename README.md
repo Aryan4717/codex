@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aryan4717/codex/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Aryan4717/codex/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Aryan4717/codex/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan4717/codex/tree/master/0877-stone-game) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aryan4717/codex/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Aryan4717/codex/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aryan4717/codex/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Aryan4717/codex/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aryan4717/codex/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aryan4717/codex/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan4717/codex/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aryan4717/codex/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryan4717/codex/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Aryan4717/codex/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
