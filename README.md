@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Aryan4717/codex/tree/master/0090-subsets-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryan4717/codex/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0486-predict-the-winner](https://github.com/Aryan4717/codex/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan4717/codex/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aryan4717/codex/tree/master/1140-stone-game-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aryan4717/codex/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aryan4717/codex/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryan4717/codex/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aryan4717/codex/tree/master/2812-find-the-safest-path-in-a-grid) |
