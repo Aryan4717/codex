@@ -1,10 +1,14 @@
 var maxSumOfSquares = function(num, sum) {
     if (sum > 9 * num) return "";
 
-    const nines = Math.floor(sum / 9);
-    const remainder = sum % 9;
+    let remaining = sum;
+    const digits = [];
 
-    return "9".repeat(nines)
-        + (remainder ? String(remainder) : "")
-        + "0".repeat(num - nines - (remainder ? 1 : 0));
+    for (let i = 0; i < num; i++) {
+        const digit = Math.min(9, remaining);
+        digits.push(String(digit));
+        remaining -= digit;
+    }
+
+    return digits.join("");
 };
